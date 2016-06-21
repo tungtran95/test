@@ -1,2 +1,4 @@
 day la project cua tung 
 thay doi 1
+
+khai thay doi

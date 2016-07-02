@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:49:06 GMT
+X-Request-Guid: 2480dff1-bde1-488e-96a2-4522107bc391
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305286.576555,VS0,VE209
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:48:06 GMT
+X-Served-By: cache-hkg6824-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/727053/how-do-i-embed-a-font-with-my-c-sharp-application-using-visual-studio-2005
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:48:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:42:03 GMT
+X-Request-Guid: ad58c5b8-7727-4cef-898b-119edde87799
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304863.115310,VS0,VE221
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:41:03 GMT
+X-Served-By: cache-hkg6823-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/22970209/get-typetaga-from-classa
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:41:03 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Content-Encoding: gzip
+X-Request-Guid: 76325fe3-a5a1-4ef3-8577-971abe97acf4
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304547.696246,VS0,VE215
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:35:47 GMT
+X-Served-By: cache-hkg6826-HKG
+X-Cache-Hits: 0
+Expires: Thu, 30 Jun 2016 16:36:47 GMT
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:35:47 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

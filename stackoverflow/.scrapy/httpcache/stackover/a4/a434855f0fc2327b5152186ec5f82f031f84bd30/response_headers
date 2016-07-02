@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:46:53 GMT
+X-Request-Guid: 8a0a429a-1153-462a-9233-ace0c2340267
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305153.166908,VS0,VE458
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:45:53 GMT
+X-Served-By: cache-hkg6824-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/10060684/how-to-allocate-a-new-tls-area-with-clone-system-call
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:45:53 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

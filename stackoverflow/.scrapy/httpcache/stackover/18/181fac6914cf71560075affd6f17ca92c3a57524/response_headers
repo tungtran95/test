@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:37:35 GMT
+X-Request-Guid: fa17918e-614c-44a6-ac53-75bb42a1d11b
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304595.238715,VS0,VE220
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:36:35 GMT
+X-Served-By: cache-hkg6826-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/5341202/why-doesnt-ab-work-in-c
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:36:35 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

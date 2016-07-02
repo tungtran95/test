@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:47:32 GMT
+X-Request-Guid: a5dfaa47-44a1-4424-b819-c807a056eb25
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305192.244306,VS0,VE247
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:46:32 GMT
+X-Served-By: cache-hkg6824-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/16294982/jtextfield-in-which-the-predefined-text-in-not-editable-but-other-text-can-be-ap
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:46:32 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.1.0 (+http://scrapy.org)
+Cookie: prov=1d5ae536-aa9f-8d4c-5482-e7608f0d850d
+Referer: http://stackoverflow.com/search?page=453&tab=relevance&q=a

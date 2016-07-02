@@ -1,0 +1,15 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Content-Encoding: gzip
+X-Request-Guid: 603f14dc-9336-4298-9636-1fa42a98b4c8
+X-Dns-Prefetch-Control: off
+Accept-Ranges: bytes
+X-Timer: S1467305057.970279,VS0,VE1970
+Vary: Accept-Encoding
+X-Served-By: cache-hkg6823-HKG
+X-Cache-Hits: 0
+Cache-Control: private
+Date: Thu, 30 Jun 2016 16:44:19 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Age: 0

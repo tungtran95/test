@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:46:23 GMT
+X-Request-Guid: 3d17e313-80af-45d7-ac82-511c1341b7e4
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305123.009720,VS0,VE208
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:45:23 GMT
+X-Served-By: cache-hkg6826-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/3414015/redirect-site-with-htaccess-but-exclude-one-folder
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:45:23 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

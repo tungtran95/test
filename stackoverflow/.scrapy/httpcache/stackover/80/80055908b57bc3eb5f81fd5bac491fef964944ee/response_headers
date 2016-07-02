@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:39:06 GMT
+X-Request-Guid: cacbb2da-952b-4f2a-a67c-f471e4f0daad
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304686.509554,VS0,VE213
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:38:06 GMT
+X-Served-By: cache-hkg6822-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/31776949/create-object-from-string-in-javasscript-ecmascript-6
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:38:06 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

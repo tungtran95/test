@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:42:12 GMT
+X-Request-Guid: 128ca495-a13a-4cab-ab3a-70719c422302
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304872.661070,VS0,VE209
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:41:12 GMT
+X-Served-By: cache-hkg6825-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/10194482/custom-matplotlib-plot-chess-board-like-table-with-colored-cells
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:41:12 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:44:26 GMT
+X-Request-Guid: 94f9227e-73c7-42b8-be1c-6401da0237b8
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305006.645248,VS0,VE206
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:43:26 GMT
+X-Served-By: cache-hkg6824-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/4971877/how-to-transfer-data-from-jsp-to-servlet-when-submitting-html-form
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:43:26 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

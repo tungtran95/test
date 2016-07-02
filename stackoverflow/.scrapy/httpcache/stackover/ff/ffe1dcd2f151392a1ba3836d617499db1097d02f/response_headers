@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:46:50 GMT
+X-Request-Guid: 1e8adb28-f925-4816-93e1-042d1c69fa94
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305150.900888,VS0,VE221
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:45:50 GMT
+X-Served-By: cache-hkg6822-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:45:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

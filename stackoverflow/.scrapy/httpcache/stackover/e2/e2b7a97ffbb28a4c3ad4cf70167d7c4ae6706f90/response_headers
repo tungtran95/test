@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:50:40 GMT
+X-Request-Guid: 4c49b0e4-e5d0-4a83-bf89-ed3c20f0cb6c
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305379.944339,VS0,VE210
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:49:40 GMT
+X-Served-By: cache-hkg6827-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/8874404/how-to-do-calculation-in-xaml-while-binding
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:49:40 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

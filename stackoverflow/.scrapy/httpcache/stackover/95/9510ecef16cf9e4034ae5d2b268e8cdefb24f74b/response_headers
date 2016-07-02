@@ -1,0 +1,16 @@
+X-Dns-Prefetch-Control: off
+Via: 1.1 varnish
+X-Cache: MISS
+Content-Encoding: gzip
+X-Request-Guid: 1079bd65-b86b-430e-a873-256ec29fe514
+Set-Cookie: prov=1d5ae536-aa9f-8d4c-5482-e7608f0d850d; domain=.stackoverflow.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly
+Accept-Ranges: bytes
+X-Timer: S1467304149.632526,VS0,VE1854
+Vary: Accept-Encoding
+X-Served-By: cache-hkg6825-HKG
+X-Cache-Hits: 0
+Cache-Control: private
+Date: Thu, 30 Jun 2016 16:29:11 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Age: 0

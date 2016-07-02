@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:48:09 GMT
+X-Request-Guid: 78276a84-ecc6-49eb-9415-b911eed5df34
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467305229.008922,VS0,VE211
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:47:09 GMT
+X-Served-By: cache-hkg6826-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/31004899/java-8-collectors-tomap-sortedmap
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:47:09 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

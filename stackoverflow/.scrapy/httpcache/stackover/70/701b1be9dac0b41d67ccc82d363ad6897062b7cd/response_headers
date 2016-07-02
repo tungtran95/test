@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:33:09 GMT
+X-Request-Guid: eaf99bd7-242a-441c-b983-79acf83c7e25
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304329.880293,VS0,VE204
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:32:09 GMT
+X-Served-By: cache-hkg6823-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/7052422/image-graphic-into-a-shape
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:32:10 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes

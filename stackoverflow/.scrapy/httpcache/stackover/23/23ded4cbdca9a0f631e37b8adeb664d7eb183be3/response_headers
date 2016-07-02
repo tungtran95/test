@@ -1,0 +1,17 @@
+Via: 1.1 varnish
+X-Cache: MISS
+Expires: Thu, 30 Jun 2016 16:37:18 GMT
+X-Request-Guid: 2ecf7db3-31e6-4c14-8c2e-070e29b026e7
+X-Dns-Prefetch-Control: off
+Age: 0
+X-Timer: S1467304578.032057,VS0,VE201
+Vary: *
+Last-Modified: Thu, 30 Jun 2016 16:36:18 GMT
+X-Served-By: cache-hkg6827-HKG
+X-Cache-Hits: 0
+Location: http://stackoverflow.com/questions/21958455/using-float-values-in-storyboard
+Cache-Control: public, max-age=60
+Date: Thu, 30 Jun 2016 16:36:18 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
